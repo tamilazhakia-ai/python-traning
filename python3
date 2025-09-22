@@ -1,0 +1,42 @@
+Write the program to execute conversion of other datatype.
+
+Input Format
+
+input corresponds to the integer
+Constraints
+
+No constraints
+
+Output Format
+
+output corresponds to the ASCII values(character)
+Sample Input 0
+
+68
+Sample Output 0
+
+D
+Sample Input 1
+
+111
+Sample Output 1
+
+o
+Submitted an hour ago • Score: 10.00Status: Accepted
+ Test Case #0
+ Test Case #1
+ Test Case #2
+ Test Case #3
+ Test Case #4
+ Test Case #5
+
+Submitted Code
+Language: Python 3
+
+ Open in editor
+1
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+2
+a=int(input())
+3
+print(chr(a))
